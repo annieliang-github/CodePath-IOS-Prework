@@ -1,6 +1,6 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - *Name of App Here*
 
-**Tip Calculator** is a tip calculator application for iOS.
+**Name of your app** is a tip calculator application for iOS.
 
 Submitted by: **Angnan Liang**
 
@@ -27,14 +27,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/op9T7AQ.gif)
+![](https://i.imgur.com/IEmNTGn.gif)
 
 GIF created with [Quicktime and ezgif].
 
 ## Notes
 
-I had a hard time showing the work in my iPhone simulator, then I found out it's the issue with Outlets.
+Describe any challenges encountered while building the app.
 
 ## License
 
