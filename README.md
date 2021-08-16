@@ -34,7 +34,7 @@ GIF created with [Quicktime and ezgif].
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a hard time showing the work in my iPhone simulator, then I found out it's the issue with Outlets.
 
 ## License
 
